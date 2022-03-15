@@ -1,1 +1,9 @@
 connettere esp01 con sistema zigbee
+
+HW:
+  ESP01S
+  rs232
+
+SW:
+  ESPHOME
+  TASMOTA  
