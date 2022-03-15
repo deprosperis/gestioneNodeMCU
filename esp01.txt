@@ -13,6 +13,6 @@ collegare adattatore seriale_USB al PC e alla board ESP01S
 
 lanciare visual studio con librerie ESPHOME
 
-qq
 Ancora modifiche
 eccone una altra
+nuova riga
