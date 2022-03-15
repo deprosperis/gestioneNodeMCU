@@ -11,3 +11,5 @@ SW:
 
 collegare adattatore seriale_USB al PC e alla board ESP01S
 
+lanciare visual studio con librerie ESPHOME
+
