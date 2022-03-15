@@ -16,3 +16,5 @@ lanciare visual studio con librerie ESPHOME
 Ancora modifiche
 eccone una altra
 nuova riga
+questa modifica va sul nuovo ramo
+siamo a riga 20
